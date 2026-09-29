@@ -47,6 +47,27 @@ Listed left to right, top to bottom in the original sheet:
 - Keep meaningful link text accessible; decorative artwork should be hidden from
   assistive technology. Do not communicate an error solely through an expression.
 
+## Cloudflare Images delivery
+
+All 26 web assets (six primary assets and 20 expressions) are uploaded to
+Cloudflare Images. [The delivery manifest](eais-lab/cloudflare-images.json)
+records public URLs, image IDs, source paths and checksums. The website consumes
+those CDN URLs; this repository remains the original artwork and backup library.
+
+After rebuilding changed artwork, upload with:
+
+```sh
+python3 scripts/upload-cloudflare-images.py
+```
+
+Requires Python 3, `curl`, and a GitHub CLI login with write permission for the
+website repository. It uses the website's existing Images Worker to allocate
+uploads, then sends files directly to Cloudflare without forwarding the GitHub
+credential. Unchanged files are skipped. The manifest contains no credentials.
+
+Use the aspect-preserving `content` variant. Verify delivered SVGs visually:
+Cloudflare sanitizes them and may transcode their embedded raster artwork.
+
 ## Rebuild
 
 Requires Node.js and ImageMagick (`convert`):

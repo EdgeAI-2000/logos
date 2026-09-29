@@ -1,0 +1,184 @@
+{
+  "wordmark": {
+    "source": "web/wordmark.svg",
+    "sha256": "49e058f07186eb04da157242e20531dc182ed7e3bfb22be7a3db1a80cba96bb2",
+    "id": "689b350b-9753-4664-5792-4cd8783cc200",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/689b350b-9753-4664-5792-4cd8783cc200/content",
+    "uploaded_at": "2026-09-29T08:57:12.181068+00:00"
+  },
+  "mascot": {
+    "source": "web/mascot.webp",
+    "sha256": "8b99d248a315e4b85b5365db6ca880c78c6ff0b65e953fdaae2fd7991e95262a",
+    "id": "75662c2e-d1c4-4d7d-7d80-446f76490500",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/75662c2e-d1c4-4d7d-7d80-446f76490500/content",
+    "uploaded_at": "2026-09-29T08:59:40.758950+00:00"
+  },
+  "badge": {
+    "source": "web/badge.webp",
+    "sha256": "8ff78a5474ab630d67cb5c7f5dcd4d540ec6037fc6415430f3ef48d77eccd7a6",
+    "id": "b0e6b7cf-80b4-4a07-9482-9e5755b92100",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/b0e6b7cf-80b4-4a07-9482-9e5755b92100/content",
+    "uploaded_at": "2026-09-29T08:59:42.676877+00:00"
+  },
+  "expressions": {
+    "source": "web/mascot-expressions.webp",
+    "sha256": "4c23fc958167795a08ad4c09eee5da50ecd16927b6e2df4d751b7b8cede918a6",
+    "id": "31e4b36f-c687-4f20-97cf-6e9c644e2700",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/31e4b36f-c687-4f20-97cf-6e9c644e2700/content",
+    "uploaded_at": "2026-09-29T08:59:45.310866+00:00"
+  },
+  "favicon": {
+    "source": "web/favicon.svg",
+    "sha256": "d9adb61ea827dfdd05a6f088c6690b4d5bdb59e4b7d76d0f9296f80b1ee4dba7",
+    "id": "f96cbe50-14f0-491a-70e8-a4d2f9162300",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/f96cbe50-14f0-491a-70e8-a4d2f9162300/content",
+    "uploaded_at": "2026-09-29T08:59:47.680612+00:00"
+  },
+  "apple_touch_icon": {
+    "source": "web/apple-touch-icon.png",
+    "sha256": "e8e9214b9e2e4b042d9a4c4b53ddcb22adc5c617c3802552ef95113bdfcbc52c",
+    "id": "ed299eca-2b5d-45ae-77e8-9084d6b0b000",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/ed299eca-2b5d-45ae-77e8-9084d6b0b000/content",
+    "uploaded_at": "2026-09-29T08:59:49.506134+00:00"
+  },
+  "pose_approve": {
+    "source": "web/expressions/approve.svg",
+    "sha256": "41fa1ec951d89df45acd5df87f211b9bd61704a521bd8254ee7a2ca8e2ab73ad",
+    "id": "dfa21957-793f-4a54-bd96-c42e4124e500",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/dfa21957-793f-4a54-bd96-c42e4124e500/content",
+    "uploaded_at": "2026-09-29T08:59:52.727769+00:00"
+  },
+  "pose_back": {
+    "source": "web/expressions/back.svg",
+    "sha256": "177d4ac61605cfbe85b857f56569e17bc2d1fb87036e049546fbf8ef4ecb36be",
+    "id": "fba7c6b3-32b8-4ede-875e-b035c46f0400",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/fba7c6b3-32b8-4ede-875e-b035c46f0400/content",
+    "uploaded_at": "2026-09-29T08:59:55.140939+00:00"
+  },
+  "pose_celebrating": {
+    "source": "web/expressions/celebrating.svg",
+    "sha256": "99153614fd03bc8ff751372e04e4551a2e88335ecfccfc3cf1975dd2440a5809",
+    "id": "3330b592-06a3-47ce-d252-9a99c2422500",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/3330b592-06a3-47ce-d252-9a99c2422500/content",
+    "uploaded_at": "2026-09-29T08:59:57.555303+00:00"
+  },
+  "pose_coding": {
+    "source": "web/expressions/coding.svg",
+    "sha256": "1cb183b419c91da8dba402da3939fc24652e2fa8ffce0c9b89bb80cd331a6583",
+    "id": "4084a323-e532-431b-43be-ec7683455d00",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/4084a323-e532-431b-43be-ec7683455d00/content",
+    "uploaded_at": "2026-09-29T08:59:59.931225+00:00"
+  },
+  "pose_coffee": {
+    "source": "web/expressions/coffee.svg",
+    "sha256": "6c135610a0d7738579faaebcac9b3907c543db841bc7da596d8fa82bebefaf8b",
+    "id": "ca24e805-e3fb-4531-e05e-d1f323597900",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/ca24e805-e3fb-4531-e05e-d1f323597900/content",
+    "uploaded_at": "2026-09-29T09:00:03.561124+00:00"
+  },
+  "pose_confident": {
+    "source": "web/expressions/confident.svg",
+    "sha256": "86b6f6f4cef86956e56800ace1fe64722bc3030e191f86004d7b98e040ae6436",
+    "id": "333353a0-d277-40cc-7fc2-d5f8cc121300",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/333353a0-d277-40cc-7fc2-d5f8cc121300/content",
+    "uploaded_at": "2026-09-29T09:00:05.955491+00:00"
+  },
+  "pose_excited": {
+    "source": "web/expressions/excited.svg",
+    "sha256": "db5823a67080ce870c338a75ab2088d75e3f5ea9640062ed35c4d8a72340ab91",
+    "id": "07040d59-c5a5-418f-9c53-a78b27a40400",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/07040d59-c5a5-418f-9c53-a78b27a40400/content",
+    "uploaded_at": "2026-09-29T09:00:08.809851+00:00"
+  },
+  "pose_heart": {
+    "source": "web/expressions/heart.svg",
+    "sha256": "61506efb26da913182b9c843f6c55a12b737f1318b91a787d581761b16455841",
+    "id": "c7ff05cd-9cc4-4beb-ccd0-b694f5e2c100",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/c7ff05cd-9cc4-4beb-ccd0-b694f5e2c100/content",
+    "uploaded_at": "2026-09-29T09:00:12.296655+00:00"
+  },
+  "pose_hello": {
+    "source": "web/expressions/hello.svg",
+    "sha256": "a2ad6eee6c2002a127f3cd801ef04edd39143abb56d063c2f32889424ae9099e",
+    "id": "6ab6f5a6-d460-402a-48c9-f870052b1000",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/6ab6f5a6-d460-402a-48c9-f870052b1000/content",
+    "uploaded_at": "2026-09-29T09:00:14.697597+00:00"
+  },
+  "pose_idea": {
+    "source": "web/expressions/idea.svg",
+    "sha256": "7468d51ef0c928267ab1914c39cb0548d802c29b6e2fc32b664209101e766e44",
+    "id": "6a74fbb7-3aa9-42a2-c273-6ded61b7a600",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/6a74fbb7-3aa9-42a2-c273-6ded61b7a600/content",
+    "uploaded_at": "2026-09-29T09:00:17.600962+00:00"
+  },
+  "pose_laughing": {
+    "source": "web/expressions/laughing.svg",
+    "sha256": "7aecec3ad2466c215cacf167dda030539a548056171555cc3781334f818b1187",
+    "id": "8a797e23-aae2-4e76-7df7-eb1cba31d900",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/8a797e23-aae2-4e76-7df7-eb1cba31d900/content",
+    "uploaded_at": "2026-09-29T09:00:20.189964+00:00"
+  },
+  "pose_peeking": {
+    "source": "web/expressions/peeking.svg",
+    "sha256": "876766129889fbcecb68a49a670cfc63fa78f6fb749d5a766d43d240bc0efb95",
+    "id": "2b48008c-3aa5-4f43-2303-313c7e339400",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/2b48008c-3aa5-4f43-2303-313c7e339400/content",
+    "uploaded_at": "2026-09-29T09:00:22.813532+00:00"
+  },
+  "pose_presenting": {
+    "source": "web/expressions/presenting.svg",
+    "sha256": "906d0072b1e59cf7081b821b590e23655f3c6db1cc981de9339cc93bee847543",
+    "id": "e3729d36-3bc0-472e-b84c-b89e55428900",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/e3729d36-3bc0-472e-b84c-b89e55428900/content",
+    "uploaded_at": "2026-09-29T09:00:25.435315+00:00"
+  },
+  "pose_reading": {
+    "source": "web/expressions/reading.svg",
+    "sha256": "7ea99339a03a7495719f760efbacf6379e03ab8c6b7966b3b07cd35c8e60651d",
+    "id": "76370ff9-4ac6-4dc0-5dd3-c504acd29a00",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/76370ff9-4ac6-4dc0-5dd3-c504acd29a00/content",
+    "uploaded_at": "2026-09-29T09:00:27.716910+00:00"
+  },
+  "pose_running": {
+    "source": "web/expressions/running.svg",
+    "sha256": "f460277cd04d5d64e5ba807fdb39605ceb8db7ccd133b13ee8fbddcc8156e0af",
+    "id": "0813bd48-b1c1-4dc6-de30-e6837a38c700",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/0813bd48-b1c1-4dc6-de30-e6837a38c700/content",
+    "uploaded_at": "2026-09-29T09:00:30.629123+00:00"
+  },
+  "pose_sad": {
+    "source": "web/expressions/sad.svg",
+    "sha256": "3c0d30d287551ff78a9a93dfadf2737b573e179f687e4c0e7d9a76b09369964e",
+    "id": "21f53e0c-12df-497e-c2a9-41b5ebb67600",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/21f53e0c-12df-497e-c2a9-41b5ebb67600/content",
+    "uploaded_at": "2026-09-29T09:00:33.354647+00:00"
+  },
+  "pose_sleeping": {
+    "source": "web/expressions/sleeping.svg",
+    "sha256": "6362e7fc89375f5898df6a0759c27ba9b2e330923e4cf13359712f6878ee1480",
+    "id": "f98eeb40-b4b1-4837-ce40-fe90ac03da00",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/f98eeb40-b4b1-4837-ce40-fe90ac03da00/content",
+    "uploaded_at": "2026-09-29T09:00:35.637157+00:00"
+  },
+  "pose_thinking": {
+    "source": "web/expressions/thinking.svg",
+    "sha256": "198fa8a7b6d96cd77f803107a65ab865237ddb0e9c814720a511050538e0b435",
+    "id": "197ee2fb-b5d1-4039-1119-541e5cccb100",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/197ee2fb-b5d1-4039-1119-541e5cccb100/content",
+    "uploaded_at": "2026-09-29T09:00:38.395239+00:00"
+  },
+  "pose_waving": {
+    "source": "web/expressions/waving.svg",
+    "sha256": "3bb91f14d76e404aa0311cc7b98a3ca0ba88fc807a01756c6353cda1a5696268",
+    "id": "2bc92fae-a72b-40dc-b065-a1b821618200",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/2bc92fae-a72b-40dc-b065-a1b821618200/content",
+    "uploaded_at": "2026-09-29T09:00:40.983949+00:00"
+  },
+  "pose_wink": {
+    "source": "web/expressions/wink.svg",
+    "sha256": "84a70bfda0eaf10f2d97817848910489dfa7a9d9a7ee458b6cc40d1fa098acd1",
+    "id": "54e964c4-1f1b-4e51-c95a-d79c3c108200",
+    "url": "https://imagedelivery.net/FNBuifN30Gov-zkgIT2tCQ/54e964c4-1f1b-4e51-c95a-d79c3c108200/content",
+    "uploaded_at": "2026-09-29T09:00:43.554563+00:00"
+  }
+}
