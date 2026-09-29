@@ -1,0 +1,62 @@
+{
+  "hello": {
+    "viewBox": "16 0 294 282"
+  },
+  "excited": {
+    "viewBox": "310 0 306 282"
+  },
+  "coding": {
+    "viewBox": "616 0 294 282"
+  },
+  "approve": {
+    "viewBox": "910 0 296 282"
+  },
+  "heart": {
+    "viewBox": "1206 0 314 282"
+  },
+  "thinking": {
+    "viewBox": "16 282 294 258"
+  },
+  "idea": {
+    "viewBox": "310 282 306 258"
+  },
+  "confident": {
+    "viewBox": "616 282 294 258"
+  },
+  "laughing": {
+    "viewBox": "910 282 296 258"
+  },
+  "sleeping": {
+    "viewBox": "1206 282 314 258"
+  },
+  "running": {
+    "viewBox": "16 540 294 230"
+  },
+  "reading": {
+    "viewBox": "310 540 306 236"
+  },
+  "celebrating": {
+    "viewBox": "616 540 294 236"
+  },
+  "presenting": {
+    "viewBox": "910 540 296 236"
+  },
+  "sad": {
+    "viewBox": "1206 540 314 236"
+  },
+  "peeking": {
+    "viewBox": "16 770 294 254"
+  },
+  "wink": {
+    "viewBox": "310 776 306 248"
+  },
+  "coffee": {
+    "viewBox": "616 776 294 248"
+  },
+  "waving": {
+    "viewBox": "910 776 296 248"
+  },
+  "back": {
+    "viewBox": "1206 776 314 248"
+  }
+}
